@@ -8,7 +8,7 @@ end
 
 gem 'rails', '~> 5.0.5'
 gem 'sqlite3'
-gem 'puma', '~> 3.0'
+gem 'puma', '~> 3.12'
 gem 'jbuilder'
 
 group :development, :test do
