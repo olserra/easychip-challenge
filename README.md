@@ -1,10 +1,4 @@
-# Easyship Junior Developer Challenge
-
-# Introduction
-
-Hi! This is your first day as a junior at Easyship. We already have a few tasks for you, so let's get started!
-
-# Guidelines
+# Ruby challenge Guidelines
 
 - Fork the repo
 - Clone it
