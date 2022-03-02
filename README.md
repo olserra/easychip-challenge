@@ -1,4 +1,4 @@
-# Ruby challenge Guidelines
+# Ruby Exercise Guidelines
 
 - Fork the repo
 - Clone it
